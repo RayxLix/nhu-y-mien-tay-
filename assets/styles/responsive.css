@@ -1,0 +1,21 @@
+@media (max-width:740px){
+  .layout-box{
+    grid-template-columns: 1fr 1fr;
+  }
+  .contract-list{
+    grid-template-columns: 1fr;
+  }
+  .combo-wraper{
+    grid-template-columns: 1fr 1fr;
+  }
+  .out-phone{
+    display: none;
+  }
+  .question-list{
+    padding: 0 10px;
+  }
+  .nav-header li{
+    width: unset;
+    padding: 0 10px;
+  }
+}
